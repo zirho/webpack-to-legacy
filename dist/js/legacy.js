@@ -14,13 +14,3 @@ $(document).ready(function() {
   });
 
 });
-
-// global functions
-
-function increase(num) {
-  return num + 1;
-}
-
-function decrease(num) {
-  return num - 1;
-}

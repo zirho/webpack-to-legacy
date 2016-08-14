@@ -7,6 +7,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin')
 module.exports = {
   devtool: 'source-map',
   entry: [
+    './src/entry.js'
   ],
   output: {
     path:       path.join(__dirname, 'dist'),
