@@ -1,9 +1,9 @@
 // global functions
 
-export function increase(num) {
+export const increase = (num) => {
   return num + 1;
 }
 
-export function decrease(num) {
+export const decrease = (num) => {
   return num - 1;
 }
