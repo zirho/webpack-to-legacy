@@ -1,8 +1,10 @@
 # branches
 
-* before refactoring: https://github.com/zirho/webpack-to-legacy/tree/master
+* legacy code: https://github.com/zirho/webpack-to-legacy/tree/master
 
-* after refactoring: https://github.com/zirho/webpack-to-legacy/tree/1-add-new-entry-file 
+* refactored: https://github.com/zirho/webpack-to-legacy/tree/1-add-new-entry-file 
+
+* external package: https://github.com/zirho/webpack-to-legacy/tree/2-use-external-package
 
 # Refactor legacy code today with webpack!
 

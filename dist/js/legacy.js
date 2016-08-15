@@ -13,4 +13,9 @@ $(document).ready(function() {
     resultElement.html(decrease(num));
   });
 
+  $('#uuid').bind('click', function(e) {
+    var num = +resultElement.text() || 0;
+    resultElement.html(getUUID(num));
+  });
+
 });
